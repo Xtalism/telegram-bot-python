@@ -11,7 +11,7 @@ from telegram.ext import (
 
 TOKEN = "YOUR_TELEGRAM_BOT_TOKEN"
 
-BOT_USERNAME: Final = "@cfe_ia_bot"
+BOT_USERNAME: Final = "BOT_USERNAME"
 
 
 class TelegramCommands:
