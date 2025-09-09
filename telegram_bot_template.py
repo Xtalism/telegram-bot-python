@@ -9,7 +9,7 @@ from telegram.ext import (
     filters,
 )
 
-TOKEN = "7654112373:AAFFJrOJh4c-Xhl50VnREPqCtRtOq2DGt98"
+TOKEN = "YOUR_TELEGRAM_BOT_TOKEN"
 
 BOT_USERNAME: Final = "@cfe_ia_bot"
 
